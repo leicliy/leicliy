@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leicliy
-- 👀 I’m interested in software development 
-- 🌱 I’m currently learning software engineering 
+- 👀 I’m interested in software development and Cyber security.
+- 🌱 I’m currently learning mathematics and computer science.
 - 💞️ I’m looking to collaborate on application development 
 - 📫 How to reach me @leicliy
 
